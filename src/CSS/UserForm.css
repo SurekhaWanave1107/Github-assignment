@@ -1,0 +1,24 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.user {
+  margin: 60px;
+  height: 20rem;
+  display: flex;
+}
+
+.avatarUrl {
+  height: 200px;
+  width: 200px;
+}
+
+.user-image {
+  padding: 30px;
+  flex: 1;
+}
+
+.user-details {
+  padding: 30px;
+  flex: 1;
+}
